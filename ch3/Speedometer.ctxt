@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Speedometer
+comment1.params=
+comment1.target=Speedometer()
+comment2.params=
+comment2.target=void\ speedUp()
+comment3.params=
+comment3.target=void\ slowDown()
+comment4.params=mph
+comment4.target=void\ setSpeed(int)
+comment5.params=
+comment5.target=int\ getSpeed()
+numComments=6
